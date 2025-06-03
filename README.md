@@ -44,7 +44,7 @@ This project explores the Amazon Prime Video Titles, providing insights into the
 - Examine top contributing countries, common genres, and age ratings, including side-by-side comparisons for Movies vs. TV Shows.
 - Highlight frequent directors and actors, and perform text analysis on descriptions to uncover common themes and language patterns.
 
-**Tools used**: Python, Pandas, Matplotlib, Seaborn, WordCloud
+**Tools used**: Python, Pandas, WordCloud, datetime, dash, base64, BytesIO
 
 ---
 
