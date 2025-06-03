@@ -83,7 +83,10 @@ A business intelligence project using the classic US Superstore dataset to extra
 
 --- 
 
-### ⚽ Sports Coverage (Coming Soon)
+### ⚽ BBC Sports Article Explorer (Coming Soon)
+This project provides an interactive analysis of BBC Sports news articles using R and Shiny. It explores the distribution of sports coverage across categories such as football, rugby, athletics, and more. By leveraging text mining techniques, the app visualizes the most common keywords, generates word clouds, and allows users to filter and explore article content dynamically.
+
+**Tools planned**: R, Shiny, tidyverse, tidytext
 
 --- 
 
