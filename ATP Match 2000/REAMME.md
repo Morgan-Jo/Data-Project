@@ -4,6 +4,10 @@ This project uses real ATP Tour data from the year 2000 to explore professional 
 
 ## Dataset
 - `atp_matches_2000.csv`: Match-level data from ATP tournaments in 2000.
+<<<<<<< HEAD
+=======
+- The information was collected from ATP site using scrapping techniques by Jeff Sackmann
+>>>>>>> 744733159fee4324f6f86c9ec415f41347a588ea
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
@@ -26,4 +30,8 @@ Open the Jupyter Notebook and execute the cells step-by-step.
 Morgan Tonner
 
 ## License
+<<<<<<< HEAD
 This project is for educational and portfolio use only.
+=======
+This project is for educational and portfolio use only.
+>>>>>>> 744733159fee4324f6f86c9ec415f41347a588ea
